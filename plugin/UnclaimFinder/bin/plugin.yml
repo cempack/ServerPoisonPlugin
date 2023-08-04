@@ -1,0 +1,12 @@
+name: UnclaimFinder
+version: 1.0
+main: fr.elliotmoreau.unclaimfinder.UnclaimFinderPlugin
+author: Elliot Moreau
+description: A plugin that provides an unclaim finder for the Winzoria minecraft server.
+api-version: 1.8
+commands:
+  unclaimfinder:
+    description: Main command for unclaimfinder
+    usage: Cette commande n'existe pas.
+    permission: unclaimfinder.use
+    aliases: [uf, ucf]

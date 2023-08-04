@@ -1,0 +1,36 @@
+# Configuration file for UnclaimFinder
+# This plugin was created by Elliot Moreau for the Winzoria server and later made available to the public.
+# If you encounter any issues with the plugin, please feel free to contact me at contact@elliotmoreau.fr.
+
+reload_permission: unclaimfinder.reload
+item: COMPASS
+item_name: "&6Unclaim Finder"
+message: "&6&lUnclaimFinder: %percentage%"
+prefix: "&6&lUnclaimFinder ➤ "
+
+messages:
+  config_reload: "&aLa configuration a été rechargée avec succès."
+  missing_permission: "&cVous n'avez pas la permission d'utiliser cette commande."
+  reload_description: "&e/unclaimfinder reload &f- Recharger la configuration du plugin."
+
+recipe:
+  enabled: true
+  ingredients:
+    - COMPASS
+    - EMERALD_BLOCK
+    - EMERALD_BLOCK
+    - EMERALD_BLOCK
+    - EMERALD_BLOCK
+    - EMERALD_BLOCK
+    - EMERALD_BLOCK
+    - EMERALD_BLOCK
+    - EMERALD_BLOCK
+
+storage_blocks:
+  - CHEST
+  - ENDER_CHEST
+  - TRAPPED_CHEST
+  - HOPPER
+  - DISPENSER
+  - DROPPER
+  - FURNACE
