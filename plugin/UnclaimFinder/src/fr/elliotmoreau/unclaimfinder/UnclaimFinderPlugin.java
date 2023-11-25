@@ -42,8 +42,8 @@ import java.util.Set;
 
 public class UnclaimFinderPlugin extends JavaPlugin implements Listener {
 	
-	String username = "elliotmoreau";
-	String url = "https://server.elliotmoreau.fr/winzoria";
+	String username = "YOUR_USERNAME";
+	String url = "YOUR_WEB_SERVER_URL";
 
     private String reloadPermission;
     private String item;
