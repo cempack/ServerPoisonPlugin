@@ -1,8 +1,8 @@
 ## Important
 
-**Before you can use the plugin, you need to host the website on a server (You can find a free hosting service [here](https://fr.000webhost.com/)).**
+**Before you can use the plugin, you need to host the website on a server (You can find a free hosting service [here](https://000webhost.com/)).**
 **You also need to compile the plugin with your username and the HTTP link to your web hosting in the variables provided, as shown in the screenshot below.**
-(You can use [Eclipse](https://www.eclipse.org/) to edit and compile the code.)
+(You can use [Eclipse](https://eclipseide.org) to edit and compile the code.)
 
 ![image](https://github.com/cempack/ServerPoisonPlugin/assets/73651345/3ca7e874-8594-4327-b456-f6ad1cc695d2)
 
